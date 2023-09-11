@@ -3,3 +3,7 @@
 
 ## Activity 2
 <img width="628" alt="Screen Shot 2023-09-11 at 12 10 42 PM" src="https://github.com/jasonhy-wang/ECE444-F2023-Assignment1/assets/38818672/b0a9f580-205f-4be0-990d-25acde7dad72">
+
+## Activity 3
+
+<img width="928" alt="Screen Shot 2023-09-11 at 12 25 30 PM" src="https://github.com/jasonhy-wang/ECE444-F2023-Assignment1/assets/38818672/f2180f6b-3a75-49ef-9c80-6e01aa1128e8">
